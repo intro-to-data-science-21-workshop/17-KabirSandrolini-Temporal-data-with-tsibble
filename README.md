@@ -34,5 +34,5 @@ This repository provides materials for a session that is part of the [I2DS Tools
 The material in this repository is made available under the [MIT license](http://opensource.org/licenses/mit-license.php).
 
 ## Statement of contributions
-- Kabir worked mainly on the theoretical slides and lightning talk, contributing some of the visuals in the interactive session.
-- Maren mainly designed the interactive session, finding the data, tidying it, and preparing the exercises.
+- Kabir worked mainly on the theoretical slides and lightning talk, contributing some of the visualizations in the interactive session.
+- Maren mainly designed the interactive session, finding the dataset, wrangling it, and preparing some of the visualizations.
